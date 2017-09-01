@@ -20,10 +20,11 @@
   },
   "homepage": "https://github.com/hungrykirby/express-mongo#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.9"
   },
-  "engine":{
+  "engine": {
     "node": "7.2.1",
     "npm": "4.0.5"
   }
